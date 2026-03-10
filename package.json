@@ -1,0 +1,22 @@
+{
+  "name": "ai-software-engineer-assignment-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript project for handling OAuth2 tokens and HTTP client",
+  "main": "dist/httpClient.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "oauth2",
+    "typescript",
+    "http-client"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
+}
