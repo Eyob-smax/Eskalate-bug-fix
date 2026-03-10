@@ -22,15 +22,13 @@ pnpm-debug.log*
 coverage/
 .vitest/
 
+# lockfiles not committed for this assignment
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
 # OS / editor
 .DS_Store
 .idea/
 .vscode/
 *.swp
-
-# misc
-*.tgzpackage-lock.json
-
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
