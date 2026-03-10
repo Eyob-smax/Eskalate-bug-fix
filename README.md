@@ -12,11 +12,13 @@ Run the test suite:
 npm test
 ```
 
-## Build And Run Tests With Docker
+## Build And
 
 ```bash
 docker build -t ai-software-engineer-assignment-ts .
 ```
+
+## Run Tests With Docker
 
 ```bash
 docker run --rm ai-software-engineer-assignment-ts
